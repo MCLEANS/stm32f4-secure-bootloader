@@ -1,0 +1,3 @@
+[submodule "boot-talk"]
+	path = boot-talk
+	url = https://github.com/MCLEANS/boot-talk.git
